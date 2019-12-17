@@ -11,16 +11,12 @@ f1 skoru: | 0.81
 
 ## Train Doğruluğu
 ![Train Doğruluğu](./Results-Graph/Train-accuracy.svg)
-<img src="./Results-Graph/Train-accuracy.svg">
 
 ## Train Kaybı
 ![Train Kaybı](./Results-Graph/Train-loss.svg)
-<img src="./Results-Graph/Train-loss.svg">
 
 ## Validasyon Doğruluğu
 ![Validasyon Doğruluğu](./Results-Graph/Validation-accuracy.svg)
-<img src="./Results-Graph/Validation-accuracy.svg">
 
 ## Validasyon Kaybı
 ![Validasyon Kaybı](./Results-Graph/Validation-loss.svg)
-<img src="./Results-Graph/Validation-loss.svg">
